@@ -1,0 +1,44 @@
+Zen address
+
+
+
+
+Zen wallet for bounty reward:  zncz76a6SmQQjyN5e8Ch5XPghuqDuCHC2QN
+
+Discord name:  Fuggit#0884
+
+
+
+
+
+tZen to Sphere   b506ee000ad806219aea2281f848eb671a7ac885fcd2e2c02055a017b301c80e
+https://explorer-testnet.horizen.io/tx/b506ee000ad806219aea2281f848eb671a7ac885fcd2e2c02055a017b301c80e
+
+	- 
+tZen to cobalt:  e55b71d4d83070d3f0b58ae6fcdd1d6bd65dfe49e552c8232eeb76aa03bd8654
+https://explorer-testnet.horizen.io/tx/e55b71d4d83070d3f0b58ae6fcdd1d6bd65dfe49e552c8232eeb76aa03bd8654
+
+	1. There are no sidechains listed in the sending dropdown menu until the Cobalt address is pasted.  Seems counter-intuitive.
+	2. The tx sending tZen to the sidechain shows as "pending" in the Sphere activity log, long after it is confirmed and spendable on the sidechain.
+
+
+
+
+1 tZNY to specific address: 1c8d05f82988fc3d8589ae9811465172c8cb469d39c760fb7b69c5617c6d503f
+https://explorer-testnet.tokenmint.global/tx/1c8d05f82988fc3d8589ae9811465172c8cb469d39c760fb7b69c5617c6d503f
+
+
+1 tZen back to layer 1 testnet from both sending chain  -e4db315617d077c5cfa9da9167c88fcde7a0074d637a3cfe5674153ddb66a77c
+https://explorer-testnet.tokenmint.global/tx/e4db315617d077c5cfa9da9167c88fcde7a0074d637a3cfe5674153ddb66a77c
+
+From Recieving Chain:  0e9720fa7a5b568725dc57aee46e0140658e0e166bc76c1802aaaa6336389c08 
+https://explorer-testnet.horizen.io/tx/0e9720fa7a5b568725dc57aee46e0140658e0e166bc76c1802aaaa6336389c08
+
+
+	1. The UI is clean but clunky after you send a token or coin.  
+	2. After hitting "send" with tZNY, it says "complete".   After sending the tZen Coin back to layer 1 testnet, it just freezes. 
+
+
+
+
+
