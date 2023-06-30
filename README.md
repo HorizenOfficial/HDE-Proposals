@@ -1,3 +1,6 @@
+# DEPRECATED
+This project has been deprecated and is no longer being maintained. 
+
 # HDE - The Horizen Developer Environment
 The Horizen Developer Environment - HDE - is a project to foster open-source software development as well as non-code-related contributions to the Horizen blockchain ecosystem.
 
